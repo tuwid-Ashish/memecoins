@@ -24,7 +24,7 @@ This project is a React application built with Vite for development and Tailwind
 1. Clone this repository:
 
 ```bash
-git clone [https://github.com/your-username/memecoins.git](https://github.com/your-username/memecoins.git)
+git clone (https://github.com/tuwid-Ashish/memecoins.git)
 
 cd memecoins
 npm install  # or yarn install
